@@ -138,7 +138,7 @@ class AnimateController:
         save_videos_grid(
             video,
             out_path,
-            n_rows=2,
+            n_rows=1,
             fps=src_fps,
         )
 
